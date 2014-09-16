@@ -1,0 +1,15 @@
+ros-hydro-pr2-shield-teleop (1.0.1-0quantal) quantal; urgency=high
+
+  * hydro-devel upgrade
+  * 0.1.1
+  * Merge branch 'master' into groovy-devel
+  * Add camera throttle and head position to launch.
+  * Version 0.1.0
+  * Add ignores.
+  * Add stack.xml and dependency on pr2_teleop.
+  * initial commit
+  * Contributors: Austin Hendrix, David Gossow, TheDash, ahendrix
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 16 Sep 2014 04:00:00 -0000
+
+
