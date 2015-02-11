@@ -1,0 +1,21 @@
+ros-indigo-pr2-shield-teleop (1.0.2-0saucy) saucy; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 11 Feb 2015 06:00:00 -0000
+
+ros-indigo-pr2-shield-teleop (1.0.1-0saucy) saucy; urgency=high
+
+  * hydro-devel upgrade
+  * 0.1.1
+  * Merge branch 'master' into groovy-devel
+  * Add camera throttle and head position to launch.
+  * Version 0.1.0
+  * Add ignores.
+  * Add stack.xml and dependency on pr2_teleop.
+  * initial commit
+  * Contributors: Austin Hendrix, David Gossow, TheDash, ahendrix
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 16 Sep 2014 05:00:00 -0000
+
+
